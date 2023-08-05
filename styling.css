@@ -269,7 +269,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../../Programming/WeatherWebsite/Rectangle.png");
+    background-image: url("./Rectangle.png");
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
