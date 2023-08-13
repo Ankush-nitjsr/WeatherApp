@@ -110,3 +110,5 @@ async function getSearchResults(CITY_NAME) {
     render(citiesWeatherData);
 }
 
+
+
